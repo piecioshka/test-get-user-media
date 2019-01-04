@@ -1,10 +1,10 @@
 # test-get-user-media
 
-> :ledger: Testing navigator.getUserMedia
+:ledger: Testing navigator.getUserMedia
 
-## Demo
+## Demo 🎉
 
-https://piecioshka.github.io/test-get-user-media/
+<https://piecioshka.github.io/test-get-user-media/>
 
 ## HTML: `index.html` file
 
