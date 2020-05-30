@@ -1,12 +1,12 @@
 # test-get-user-media
 
-:ledger: Testing navigator.getUserMedia
+:ledger: Testing `navigator.getUserMedia`
 
 ## Demo 🎉
 
 <https://piecioshka.github.io/test-get-user-media/>
 
-## HTML: `index.html` file
+## HTML: `index.html`
 
 ```html
 <link rel="stylesheet" href="main.css">
@@ -14,7 +14,7 @@
 <script src="main.js"></script>
 ```
 
-## CSS: `main.css` file
+## CSS: `main.css`
 
 ```css
 html, body, video {
@@ -26,7 +26,7 @@ html, body, video {
 }
 ```
 
-## JavaScript: `main.js` file
+## JavaScript: `main.js`
 
 ```javascript
 const OPTIONS = {
