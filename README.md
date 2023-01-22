@@ -2,7 +2,7 @@
 
 :ledger: Testing `navigator.getUserMedia`
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-get-user-media/>
 
